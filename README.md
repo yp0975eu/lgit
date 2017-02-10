@@ -1,1 +1,2 @@
+# Hey!
 # Got Enough Git?
